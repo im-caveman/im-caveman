@@ -88,8 +88,8 @@ I’m a recent graduate with a passion for turning raw data into actionable insi
 
 ## 📬 Let's Connect!
 Feel free to reach out to me for collaboration or job opportunities. You can contact me via:
-- [LinkedIn](#)
-- [Email](#)
+- [LinkedIn](https://www.linkedin.com/in/aryan-tiwari-snu/)
+- [Email](mailto:tiwari.aryan@hotmail.com)
 
 ---
 
