@@ -1,4 +1,5 @@
-# 🚀 Data Analyst | Python & SQL Enthusiast | Data Storyteller
+# Hello I'm Aryan Tiwari
+## Aspiring Data Analyst from India
 
 📍 India | 📧 tiwari.aryan@hotmail.com | [LinkedIn](https://www.linkedin.com/in/aryan-tiwari-snu/) | [Portfolio](#)
 
