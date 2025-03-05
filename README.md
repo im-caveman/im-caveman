@@ -91,6 +91,3 @@ Feel free to reach out to me for collaboration or job opportunities. You can con
 - [LinkedIn](https://www.linkedin.com/in/aryan-tiwari-snu/)
 - [Email](mailto:tiwari.aryan@hotmail.com)
 
----
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=im-caveman.im-caveman)
