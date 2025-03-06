@@ -67,8 +67,8 @@ I’m a recent graduate with a passion for turning raw data into actionable insi
 
 ---
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=im-caveman&show_icons=true&theme=radical)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=im-caveman&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=im-caveman&theme=dark&hide_border=false)
 ---
 
 ## 📚 Certifications
@@ -88,6 +88,9 @@ I’m a recent graduate with a passion for turning raw data into actionable insi
 
 ## 📬 Let's Connect!
 Feel free to reach out to me for collaboration or job opportunities. You can contact me via:
-- [LinkedIn](https://www.linkedin.com/in/aryan-tiwari-snu/)
-- [Email](mailto:tiwari.aryan@hotmail.com)
 
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/coding-hashira.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sanemi_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-tiwari-snu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwari.aryan@hotmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/coding-hashira)  
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=im-caveman&icon=6&color=0)](https://visitcount.itsvg.in)
