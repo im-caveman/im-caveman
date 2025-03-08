@@ -1,6 +1,6 @@
 # Hi, I'm Aryan Tiwari 👋
 
-📍 India | 📧 [Email](mailto:tiwari.aryan@hotmail.com) | [LinkedIn](https://linkedin.com/in/aryan-tiwari-snu)
+📍 India | [Email](mailto:tiwari.aryan@hotmail.com) | [LinkedIn](https://linkedin.com/in/aryan-tiwari-snu)
 
 ---
 
