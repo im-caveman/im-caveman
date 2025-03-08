@@ -33,8 +33,8 @@ I’m a passionate **Data Analyst** with hands-on experience in data cleaning, a
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=im-caveman&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=im-caveman&theme=dark&hide_border=false)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=im-caveman&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&width=400)
+![](https://nirzak-streak-stats.vercel.app/?user=im-caveman&theme=dark&hide_border=false&width=400)
 
 ---
 
