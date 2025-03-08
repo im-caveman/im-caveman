@@ -42,7 +42,3 @@ I’m a passionate **Data Analyst** with hands-on experience in data cleaning, a
 Feel free to reach out to me for collaboration or job opportunities. You can contact me via:
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/coding-hashira.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sanemi_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-tiwari-snu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwari.aryan@hotmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/coding-hashira)  
-
----
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=im-caveman.im-caveman)
