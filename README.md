@@ -34,12 +34,18 @@ I’m a passionate **Data Analyst** with hands-on experience in data cleaning, a
 
 # My Profile Badges
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.cloudskillsboost.google/public_profiles/8f7420c2-b99f-4c91-9608-b11a653f02a5/badges/1364169" target="_blank">
-    <img src="https://github.com/user-attachments/assets/f25a2e79-a4d5-4444-bbca-61103fc647d2" alt="Badge 1" style="width: 100px; height: auto;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <a href="https://www.cloudskillsboost.google/public_profiles/8f7420c2-b99f-4c91-9608-b11a653f02a5/badges/1364169" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/f25a2e79-a4d5-4444-bbca-61103fc647d2" alt="Google Cloud Badge" style="width: 100px; height: 100px;">
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/SANEMI/3RCGGRRH?sharingId=E2B2A65E7D87DE67" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/8b59003f-4331-4728-bef5-c0ef539ff622" alt="Microsoft Learn Badge" style="width: 100px; height: 100px;">
   </a>
   <!-- Add more badges as needed -->
 </div>
+
+
+
 
 
 ---
