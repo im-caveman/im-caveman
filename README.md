@@ -34,12 +34,37 @@ I’m a passionate **Data Analyst** with hands-on experience in data cleaning, a
 
 # My Profile Badges
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
   <a href="https://www.cloudskillsboost.google/public_profiles/8f7420c2-b99f-4c91-9608-b11a653f02a5/badges/1364169" target="_blank" style="margin-right: 20px;">
     <img src="https://github.com/user-attachments/assets/f25a2e79-a4d5-4444-bbca-61103fc647d2" alt="Google Cloud Badge" style="width: 100px; height: 100px;">
   </a>
+  
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/SANEMI/3RCGGRRH?sharingId=E2B2A65E7D87DE67" target="_blank" style="margin-right: 20px;">
     <img src="https://github.com/user-attachments/assets/8b59003f-4331-4728-bef5-c0ef539ff622" alt="Microsoft Learn Badge" style="width: 100px; height: 100px;">
+  </a>
+  
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/SANEMI/UY65KSU3?sharingId=E2B2A65E7D87DE67" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/88a77690-568c-4e33-b217-ef746edc1114" alt="Microsoft Learn Badge" style="width: 100px; height: 100px;">
+  </a>
+  
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/SANEMI/ZKVTUKQ2?sharingId=E2B2A65E7D87DE67" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/f5cb54a9-907b-4108-8172-308a8815b3bb" alt="Microsoft Learn Badge" style="width: 100px; height: 100px;">
+  </a>
+  <!-- Add more badges as needed -->
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+  <a href="https://leetcode.com/medal/?showImg=0&id=1928283&isLevel=false" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/828f1cda-9bd9-4ab1-ad35-34db0d0225dd" alt="LeetCode" style="width: 100px; height: 100px;">
+  </a>
+  <a href="https://leetcode.com/medal/?showImg=0&id=4665685&isLevel=false" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/9a2fd27a-8abc-4d1d-9f66-506a82be60c3" alt="LeetCode" style="width: 100px; height: 100px;">
+  </a>
+  <a href="https://leetcode.com/medal/?showImg=0&id=3046374&isLevel=false" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/fd0e0ac9-256f-4113-b199-20182ec39de0" alt="LeetCode" style="width: 100px; height: 100px;">
+  </a>
+  <a href="https://leetcode.com/medal/?showImg=0&id=4850976&isLevel=false" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/3d5a4295-72f1-450c-96e4-2984f1b5182e" alt="LeetCode" style="width: 100px; height: 100px;">
   </a>
   <!-- Add more badges as needed -->
 </div>
