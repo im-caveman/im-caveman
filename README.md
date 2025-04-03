@@ -32,8 +32,15 @@ I’m a passionate **Data Analyst** with hands-on experience in data cleaning, a
 
 ---
 
-## 📊 GitHub Stats
-![My GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=im-caveman&theme=dark&hide_border=false&width=400)
+# My Profile Badges
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.cloudskillsboost.google/public_profiles/8f7420c2-b99f-4c91-9608-b11a653f02a5/badges/1364169" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f25a2e79-a4d5-4444-bbca-61103fc647d2" alt="Badge 1" style="width: 100px; height: auto;">
+  </a>
+  <!-- Add more badges as needed -->
+</div>
+
 
 ---
 
